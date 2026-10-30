@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/chijinoya",
  "yomi": "ちぢのやしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸後期",
+  "author": "千種有功（1797〜1854）",
+  "desc": "公卿で歌人の千種有功の家集。四季の部に始まり、長歌も収める。"
+ },
  "editions": [
   {
    "pid": "993385",
